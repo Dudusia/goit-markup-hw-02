@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.0 (2025-02-28)
+
+### Features
+
+* initial commit ([502921c](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/commit/502921cd7959bd26e77de318c039e4dbde68e4be))
+
 ## [1.0.1](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-01/compare/1.0.0...1.0.1) (2025-02-24)
 
 ### Bug Fixes
