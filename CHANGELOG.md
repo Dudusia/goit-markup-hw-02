@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.3.6](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/compare/1.3.5...1.3.6) (2025-03-04)
+
+### Bug Fixes
+
+* mentor comments ([d7f903f](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/commit/d7f903fa06d5f2b6181f4340fb46195275c3e406))
+
 ## [1.3.5](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/compare/1.3.4...1.3.5) (2025-03-04)
 
 ### Bug Fixes
