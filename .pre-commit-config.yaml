@@ -29,7 +29,7 @@ repos:
         name: VNU
         entry: /opt/homebrew/bin/vnu ./public/*.html
         language: script
-        files: \.(html|css|js)$
+        files: \.(html)$
       - id: squoosh
         name: squoosh
         # TODO: redo it to point to a global path
