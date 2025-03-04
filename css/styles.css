@@ -79,6 +79,10 @@ p {
 /* #endregion */
 
 /* #region Header */
+#header-item-main:active {
+  color: var(--ocean);
+}
+
 .header {
   background-color: var(--cornflower);
   font-size: 16px;
@@ -97,10 +101,6 @@ p {
 }
 
 .header-item-link:hover {
-  color: var(--ocean);
-}
-
-.studio-link-accent:active{
   color: var(--ocean);
 }
 
