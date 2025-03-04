@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.3.0](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/compare/1.2.1...1.3.0) (2025-03-04)
+
+### Features
+
+* move items to root ([46b2976](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/commit/46b29765e3ba64e66087be286c84c6ba3a7d89a7))
+
 ## [1.2.1](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/compare/1.2.0...1.2.1) (2025-03-04)
 
 ### Bug Fixes
