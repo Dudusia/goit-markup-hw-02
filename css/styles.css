@@ -37,6 +37,11 @@ button {
   border: none;
 }
 
+ul,
+ol {
+  list-style: none;
+}
+
 /* Common */
 h2,
 h3 {
@@ -79,12 +84,12 @@ p {
 /* #endregion */
 
 /* #region Header */
-#header-item-main:active, #header-item-main:focus {
+#header-item-main:active,
+#header-item-main:focus {
   color: var(--ocean);
 }
 
 .header {
-  background-color: var(--cornflower);
   font-size: 16px;
   line-height: 1.5;
 }
@@ -105,7 +110,7 @@ p {
 }
 
 .header-address {
-  font-style: normal
+  font-style: normal;
 }
 
 .header-address-list {
@@ -114,7 +119,8 @@ p {
 .header-address-item {
 }
 
-.header-address-item-link:hover, .header-address-item-link:focus {
+.header-address-item-link:hover,
+.header-address-item-link:focus {
   color: var(--ocean);
 }
 
@@ -143,7 +149,8 @@ p {
   color: var(--white);
 }
 
-.btn:hover, .btn:focus {
+.btn:hover,
+.btn:focus {
   background-color: var(--ocean);
 }
 /* #endregion */
