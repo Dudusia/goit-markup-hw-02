@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.3.5](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/compare/1.3.4...1.3.5) (2025-03-04)
+
+### Bug Fixes
+
+* add focus to link ([0730d90](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/commit/0730d90124158f31f349a3cd74b431a53873bb19))
+
 ## [1.3.4](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/compare/1.3.3...1.3.4) (2025-03-04)
 
 ### Bug Fixes
