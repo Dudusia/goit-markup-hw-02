@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.3.2](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/compare/1.3.1...1.3.2) (2025-03-04)
+
+### Bug Fixes
+
+* h2 alignment ([89c7aba](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/commit/89c7aba64442d6da65c08cb82e6c29fe011542b6))
+
 ## [1.3.1](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/compare/1.3.0...1.3.1) (2025-03-04)
 
 ### Bug Fixes
