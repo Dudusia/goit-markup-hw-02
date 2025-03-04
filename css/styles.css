@@ -40,7 +40,6 @@ button {
 /* Common */
 h2,
 h3 {
-  text-align: center;
   color: var(--navy-blue);
   font-size: 20px;
   font-weight: 500;
