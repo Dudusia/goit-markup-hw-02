@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2.0](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/compare/1.1.0...1.2.0) (2025-03-04)
+
+### Features
+
+* add css ([9a41a01](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/commit/9a41a01f3f31e6105c1819834e9af206986be60d))
+
 ## [1.1.0](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/compare/1.0.0...1.1.0) (2025-03-03)
 
 ### Features
