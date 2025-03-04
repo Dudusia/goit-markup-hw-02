@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.3.4](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/compare/1.3.3...1.3.4) (2025-03-04)
+
+### Bug Fixes
+
+* review comments for header ([135d3a1](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/commit/135d3a1e32d57768fc2ecb57876d4ab0422698c3))
+
 ## [1.3.3](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/compare/1.3.2...1.3.3) (2025-03-04)
 
 ### Bug Fixes
