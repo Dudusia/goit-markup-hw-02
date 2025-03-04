@@ -79,7 +79,7 @@ p {
 /* #endregion */
 
 /* #region Header */
-#header-item-main:active {
+#header-item-main:active, #header-item-main:focus {
   color: var(--ocean);
 }
 
@@ -114,9 +114,10 @@ p {
 .header-address-item {
 }
 
-.header-address-item-link:hover {
+.header-address-item-link:hover, .header-address-item-link:focus {
   color: var(--ocean);
 }
+
 /* #endregion */
 
 /* #region Hero */
