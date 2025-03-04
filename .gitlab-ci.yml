@@ -39,6 +39,8 @@ code:release:
 page:deploy:
   stage: page:deploy
   script:
+    - mkdir public
+    - cp -R ./{images,index.html,css} public
     - echo "Pages accessible through ${CI_PAGES_URL}"
   environment:
     name: production
