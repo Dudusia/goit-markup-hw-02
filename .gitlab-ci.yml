@@ -14,7 +14,7 @@ html:vnu:
   stage: html:validate
   image: cyb3rjak3/html5validator:latest
   script:
-    - html5validator --root $CI_PROJECT_DIR/public
+    - html5validator --root $CI_PROJECT_DIR
 
 code:release:
   stage: code:release
