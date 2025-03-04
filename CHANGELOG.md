@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.3.3](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/compare/1.3.2...1.3.3) (2025-03-04)
+
+### Bug Fixes
+
+* remove center alighnment for h3 ([14e776b](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/commit/14e776b04ca5c812c1bd217f3c0c2ca2007e14dd))
+
 ## [1.3.2](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/compare/1.3.1...1.3.2) (2025-03-04)
 
 ### Bug Fixes
