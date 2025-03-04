@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2.1](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/compare/1.2.0...1.2.1) (2025-03-04)
+
+### Bug Fixes
+
+* fix the letter-spacing ([accee7c](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/commit/accee7cce38f95ecc4aa2214f3ff29ed3b632911))
+
 ## [1.2.0](https://gitlab.com/goit-uni/html-css-fls/goit-markup-hw-02/compare/1.1.0...1.2.0) (2025-03-04)
 
 ### Features
